@@ -1,4 +1,4 @@
-[logo]: https://media2.giphy.com/media/4GWgNkOcQeubVjoc5P/giphy.gif "Logo Title Text 2"
+[logo]: https://pandagif.com/gifs/DJN2iyzE5b.gif "Logo Title Text 2"
 
 ![alt text][logo]
 
